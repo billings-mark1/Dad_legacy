@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Dad, My Hero</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>My Dad, My Hero</h1>
+    <p>A small website built with love</p>
+</header>
+
+<section>
+    <h2>Welcome, Dad</h2>
+    <p>
+        This website was built just for you.  
+        Every word here carries gratitude, respect, and love.
+    </p>
+</section>
+
+<section>
+    <h2>Your Journey</h2>
+    <p>
+        From the sacrifices you made to the lessons you taught,
+        your life has been a blueprint of strength and responsibility.
+    </p>
+</section>
+
+<section>
+    <h2>What You Taught Me</h2>
+    <ul>
+        <li>To never give up</li>
+        <li>To stay humble</li>
+        <li>To work hard and stay honest</li>
+    </ul>
+</section>
+
+<section>
+    <h2>A Message From Me</h2>
+    <p>
+        Dad, everything I am becoming is rooted in you.
+        Thank you for believing in me, even when I wasn’t sure of myself.
+    </p>
+</section>
+
+<footer>
+    <p>Built by your son ❤️</p>
+</footer>
+
+</body>
+</html>
